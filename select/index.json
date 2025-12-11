@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Red Swan",
+  "base_artist": "YOSHIKI",
+  "createdAt": "2025-12-11T11:19:03.534451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hope Over Hope (B.'s Red Swan Remix)",
+      "artist": "Karmacoda",
+      "has_synced": false,
+      "path": "select/01_Hope_Over_Hope_(B.'s_Red_Swan_Remix)_Karmacoda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "横田進",
+      "has_synced": false,
+      "path": "select/02_Red_Swan_横田進.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "Yoshiki feat. HYDE",
+      "has_synced": true,
+      "path": "select/03_Red_Swan_Yoshiki_feat._HYDE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Swan - TV Edit -",
+      "artist": "Yoshiki feat. HYDE",
+      "has_synced": true,
+      "path": "select/04_Red_Swan_-_TV_Edit_-_Yoshiki_feat._HYDE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Swan -TV Edit-",
+      "artist": "YOSHIKI feat. HYDE",
+      "has_synced": true,
+      "path": "select/05_Red_Swan_-TV_Edit-_YOSHIKI_feat._HYDE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "Yoshiki/HYDE",
+      "has_synced": true,
+      "path": "select/06_Red_Swan_Yoshiki_HYDE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "YOSHIKI, HYDE",
+      "has_synced": true,
+      "path": "select/07_Red_Swan_YOSHIKI,_HYDE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "Yoshiki",
+      "has_synced": true,
+      "path": "select/08_Red_Swan_Yoshiki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Red Swan (From \"Attack on Titan\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_Red_Swan_(From__Attack_on_Titan_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Red Swan - 2018",
+      "artist": "Lollia feat. Sleeping Forest",
+      "has_synced": true,
+      "path": "select/10_Red_Swan_-_2018_Lollia_feat._Sleeping_Forest.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Red Swan - 2018",
+      "artist": "Lollia/Sleeping Forest",
+      "has_synced": true,
+      "path": "select/11_Red_Swan_-_2018_Lollia_Sleeping_Forest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Red Swan (from “Attack on Titan”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/12_Red_Swan_(from_“Attack_on_Titan”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Red Swan (feat. HYDE)",
+      "artist": "YOSHIKI",
+      "has_synced": true,
+      "path": "select/13_Red_Swan_(feat._HYDE)_YOSHIKI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "Yoshiki feat. hyde",
+      "has_synced": true,
+      "path": "select/14_Red_Swan_Yoshiki_feat._hyde.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Red Swan",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/15_Red_Swan_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Red Swan -TV Edit-",
+      "artist": "YOSHIKI",
+      "has_synced": true,
+      "path": "select/16_Red_Swan_-TV_Edit-_YOSHIKI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Red Swan (feat. HYDE)",
+      "artist": "YOSHIKI",
+      "has_synced": true,
+      "path": "select/17_Red_Swan_(feat._HYDE)_YOSHIKI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Red Swan (feat. HYDE)",
+      "artist": "Yoshiki",
+      "has_synced": true,
+      "path": "select/18_Red_Swan_(feat._HYDE)_Yoshiki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Red Swan",
+      "artist": "YOSHIKI",
+      "has_synced": false,
+      "path": "select/pl_01_Red_Swan_YOSHIKI.txt"
+    }
+  ]
+}
